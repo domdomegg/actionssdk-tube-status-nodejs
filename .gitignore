@@ -57,3 +57,6 @@ typings/
 # dotenv environment variables file
 .env
 
+# actions-on-google related stuff
+creds.data
+gactions
